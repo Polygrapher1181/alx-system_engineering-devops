@@ -1,2 +1,2 @@
 #!/bin/bash
-cp -u *.htm ..
+cp -v "$f"  ../../folder_destination/"${f%.html}".html
