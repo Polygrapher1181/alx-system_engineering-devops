@@ -1,2 +1,2 @@
 #!/bin/bash
-cp -v "$f"  ../../folder_destination/"${f%.html}".html
+cp ./*.html ..
